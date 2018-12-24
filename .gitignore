@@ -1,0 +1,24 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+.idea/
+data/
+data/*
+sklearning/supervised/tree.dot
+visualization/pandasvisualize/.ipynb_checkpoints/
+visualization/html/
+/data_handling/kind/
+data_handling/Index.txt
+data_handling/balance-scale.data
+data_handling/balance-scale.names
+data_handling/kind/
+deeplearning/.ipynb_checkpoints/
+modeldump/bigarray1.pkl
+modeldump/bigarray2.pkl
+modeldump/finalized_model.sav
+modeldump/model_dump_joblib.sav
+modeldump/pima-indians-diabetes.data
+.ipynb_checkpoints/
+Utilities/
+data_handling/feature_engineering/.ipynb_checkpoints/
+sklearning/unsupervised/.ipynb_checkpoints/
+
